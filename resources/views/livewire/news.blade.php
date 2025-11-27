@@ -66,7 +66,7 @@
         <div class="newsletter-box">
             <h3 class="text-secondary">Restez Informé</h3>
             <p>Recevez nos dernières analyses juridiques et actualités directement dans votre boîte mail</p>
-            <form class="newsletter-form" id="newsletterForm">
+            <form class="newsletter-form d-flex flex-column flex-md-row gap-2" id="newsletterForm">
                 <input type="email" placeholder="Votre adresse email" required>
                 <button type="submit">
                     <i class="fas fa-envelope"></i> S'abonner
