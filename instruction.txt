@@ -1,0 +1,5 @@
+Tu as finis avec la partie frontend de notre application.
+
+Tu vas te baser toujours de notre structure su site 'welcome.blade.php' et commencer à dynamiser coté backeng pourque
+l'admin ait la possibilité de créer, modifier et supprimer ces informations. Sans oublier d'ajouter le logo de notre organisation
+et remplacer les icones des membres de l'équipe par des images
