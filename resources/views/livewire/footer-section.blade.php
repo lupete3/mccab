@@ -47,10 +47,10 @@
 			</div>
 		</div>
 		<div class="footer-bottom">
-			<p>&copy; 2024 Cabinet Murhwa & Cherubala Conseil. Tous droits réservés.</p>
+			<p>&copy; 2025 Cabinet Murhwa & Cherubala Conseil. Tous droits réservés.</p>
 			<div class="made-by">
-				Conçu avec passion par <a href="https://huggingface.co/spaces/akhaliq/anycoder"
-					target="_blank">anycoder</a>
+				Conçu avec passion par <a href="https://quiraservices.com"
+					target="_blank">Quira Services</a>
 			</div>
 		</div>
 	</footer>
